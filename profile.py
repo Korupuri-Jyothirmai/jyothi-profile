@@ -17,9 +17,9 @@ Data Scientist
 """
 EMAIL = "kurupurijyothirmai2000@gmail.com"
 SOCIAL_MEDIA = {
-    "LinkedIn: http://www.linkedin.com/in/korupuri-jyothirmai-211704256",
-    "GitHub: https://github.com/Korupuri-Jyothirmai",
-    "Kaggle: https://www.kaggle.com/korupurijyothirmai"
+    "linkedin":"LinkedIn: http://www.linkedin.com/in/korupuri-jyothirmai-211704256",
+    "Github":"GitHub: https://github.com/Korupuri-Jyothirmai",
+    "Kaggle":"Kaggle: https://www.kaggle.com/korupurijyothirmai"
 }
 PROJECTS = {
     """🏆 WEB BASED SERIVCE TO MONITOR AUTOMATIC IRRIGATION SYSTEM FOR AGRICULTURE USING SENSORS. I have done this project during my academics. """:'.',
