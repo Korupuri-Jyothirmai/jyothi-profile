@@ -28,7 +28,7 @@ PROJECTS = {
 
 
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON,layout="wide")
-st.title("hello world")
+
 
 # --- LOAD CSS, PDF & PROFIL PIC ---
 with open(css_file) as f:
@@ -165,4 +165,5 @@ st.write("---")
 st.write("""
 - Badminton 🏸
 - Programming 💻
+- handcraft🪡🧶
     """)
